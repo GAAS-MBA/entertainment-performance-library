@@ -129,6 +129,9 @@ export default function App() {
             ))}
           </ul>
         </div>
+        <div className="sidebar-footer">
+          © TANAAKK
+        </div>
       </aside>
       <main className="main">
         {view === 'concept' && (
