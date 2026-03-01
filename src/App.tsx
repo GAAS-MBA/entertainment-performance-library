@@ -77,7 +77,7 @@ export default function App() {
     <div className="app">
       <aside className="sidebar">
         <div className="sidebar-header">
-          <h1 className="sidebar-title">Entertainment Performance Hacking</h1>
+          <h1 className="sidebar-title">Entertainment Performance Library</h1>
           <p className="sidebar-subtitle">エンターテイナー＝コンピューター</p>
         </div>
         <nav>

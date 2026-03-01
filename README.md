@@ -1,4 +1,4 @@
-# entertainment-performance-hacking
+# Entertainment Performance Library
 
 ## General Concept
 
